@@ -1,4 +1,6 @@
 # NativeBox v0.1
+![NativeBox](https://user-images.githubusercontent.com/109024495/179395162-2cad0b73-8033-4b02-b91e-b6a1bbf15f88.png)
+
 ## Purpose
 Does your webpage require alert boxes or dialog boxes that look similar to those of viewer's system? A windows dialog for a Windows User, A macOS dialog for a macOS user... Then voila! You are the right place. NativeBox has a solution for your needs.
 
